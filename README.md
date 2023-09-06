@@ -1,5 +1,5 @@
 Hey!! I am Gulmini currently pursuing my B.Tech degree in CSE with specialisation in Cyber Physical System from Vellore Institute of Technology, Chennai.
-I am an IOT, AI/ML enthusiast and have successfully tried my hands on Web Development too.
+I am an IoT, AI/ML enthusiast and have successfully tried my hands on Web Development too.
 
 🔭 I’m currently working on IoT based Smart Paring System.
 
