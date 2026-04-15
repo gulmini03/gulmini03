@@ -1,12 +1,28 @@
-Hey!! I am Gulmini currently pursuing my B.Tech degree in CSE with specialisation in Cyber Physical System from Vellore Institute of Technology, Chennai.
-I am an IoT, AI/ML enthusiast and have successfully tried my hands on Web Development too.
+## Hey, I'm Gulmini 👋
 
-🔭 I’m currently working on IoT based Smart Paring System.
+AI/ML enthusiast with a strong interest in building intelligent systems that bridge research and real-world applications. My work spans across machine learning, IoT systems, and scalable backend development.
 
-👯 I’m open to collaborate on IoT and Web Dev Projects.
+🔬 Currently exploring:
+- Applied Machine Learning & Deep Learning
+- IoT-driven intelligent systems
+- Human-centered AI and data-driven solutions
 
-🤔 Still wondering if UI/UX is my field of interest.
+💻 Experience with:
+- Building ML models for prediction and analysis
+- Working with EEG data and signal processing
+- Developing end-to-end applications (Flask, APIs, integrations)
 
-📫 How to reach me: You can contact me through Gmail or LinkedIn.
+⚙️ Previously worked on:
+- Smart Parking System (IoT + OCR + automation)
+- Emotion-aware cyberattack detection system
+- ML-based predictive analytics solutions
 
-⚡ Looking forward for amazing work experiences and learnings!!!
+🤝 Open to:
+- Collaborating on AI/ML and system-driven projects
+- Research opportunities and innovative problem statements
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/gulminipradhan
+- Email: gulminip03@gmail.com
+
+✨ Always curious. Always building.
